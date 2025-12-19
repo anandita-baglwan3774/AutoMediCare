@@ -69,7 +69,6 @@ AutoMediCare/
 ├── index.html          # Frontend UI  
 ├── server.js           # Express backend server  
 ├── main.py             # Python AI symptom analyzer  
-├── testgemini.js       # API testing script  
 ├── package.json        # Node dependencies  
 ├── package-lock.json  
 ├── .env                # Environment variables  
@@ -177,3 +176,4 @@ Always consult a qualified doctor for real medical issues.
 ---
 
 ⭐ If you find this project useful, give it a star on GitHub!
+
