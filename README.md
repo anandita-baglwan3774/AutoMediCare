@@ -39,8 +39,7 @@ full-stack development to solve real-world healthcare problems.
 - JavaScript  
 
 **Backend**
-- Node.js  
-- Express.js  
+- Next.js    
 - MongoDB (Mongoose)  
 
 **AI & APIs**
@@ -178,5 +177,6 @@ Always consult a qualified doctor for real medical issues.
 [Watch the demo video here](https://youtu.be/hsAdzEVYPmw?si=siejKUekFli9sWNF)
 
 ⭐ If you find this project useful, give it a star on GitHub!
+
 
 
