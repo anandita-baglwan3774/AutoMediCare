@@ -174,6 +174,9 @@ Always consult a qualified doctor for real medical issues.
 - Faculty mentors for guidance  
 
 ---
+## 🎥 Project Demo
+[Watch the demo video here](https://youtu.be/hsAdzEVYPmw?si=siejKUekFli9sWNF)
 
 ⭐ If you find this project useful, give it a star on GitHub!
+
 
